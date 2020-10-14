@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# A R Markdown JUSTIN EDIT template for writing lecture notes and academic papers
+# A R Markdown JUSTIN EDIT template for writing lecture notes and academic papers 
 
 <!-- badges: start -->
 <!-- badges: end -->
